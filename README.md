@@ -1,2 +1,2 @@
-# Exerc-cios-ED
+# Exercicios-ED
 Exercícios da aula de estrutura de dados
